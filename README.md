@@ -28,11 +28,11 @@ $ cd QR-Code
 
 Reference image
 
-[Imgur](https://i.imgur.com/Xkp5087.png)
+![Imgur](https://i.imgur.com/Xkp5087.png)
 
 My replication
 
-[Imgur](https://i.imgur.com/w606CwW.png)
+![Imgur](https://i.imgur.com/w606CwW.png)
 
 ## 🛠️ built with
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
